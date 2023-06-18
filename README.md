@@ -1,2 +1,3 @@
 # LandingPage DeathNote
- git e github
+ Exemplo e sugestão de uma LandingPage bem estruturada.
+ 
